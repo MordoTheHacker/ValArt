@@ -1,0 +1,358 @@
+<!DOCTYPE html> 
+  <!-- Slides Container -->
+  <div class="lSSlideOuter "><div class="lSSlideWrapper usingCss"><div class="slider-big-cover  lightSlider lSFade lsGrab" u="slides" slideshow_transition-fade="" style="height: 0px; padding-bottom: 422.388%;">
+                  <div class=" slider-big-items      active" data-focus-x="0" data-focus-y="0" style="height: 565.5px;">
+                                                  
+              <img id="user_slide_0" class="slide-item slide-item-0" data-index="0" data-slideid="1112815" u="image" src="sliderImage.png" data-slidecount="1" style="top: 0px; left: -405.97%; max-height: 100%;">              
+        <div class="cast-layer prince" style="background-color:rgba(0,0,0, 0.11);  z-index:  2;">
+      </div>
+
+              </div>
+      </div><div class="lSAction" style="display: none;"><a class="lSPrev navigation-left js-navigation-arrow-controll navigation-arrow-controll menu-svg-icon"><svg viewBox="0 0 256 512"><use xlink:href="#chevronl-left-pixpa-icon" width="256" height="512"></use></svg></a><a class="navigation-right lSNext js-navigation-arrow-controll navigation-arrow-controll menu-svg-icon"><svg viewBox="0 0 256 512"><use xlink:href="#chevronl-right-pixpa-icon" width="256" height="512"></use></svg></a></div></div></div>
+    
+
+      <div class="overwrite-text coverslider-overwrite-text u651659-secondary-text slider-box-container slider-box-position content_user_slide_0">
+      <div class="slider-box is-content-width_large  box-left ">
+      <div class="slider-box-content is-global-inset-val   content-middle "> 
+        
+        <div class="slider-box-content-width    is-content-width_large  box-left ">
+          <h2><strong>Paintings /&nbsp;</strong><strong></strong><strong>Drawings /&nbsp;</strong><strong>Illustration&nbsp;</strong></h2>
+<p style="text-align: center;"></p>
+          
+          <div class="flex justify-left align-center">
+    <a class="global-margin is-global-btn is-global-btn-medium is-global-btn-inverted" href="store.html" target="">Shop Now</a>
+  </div>
+
+                                        </div>
+      </div>
+    </div>
+  </div>
+    
+
+
+
+pt 2
+
+
+
+      
+    <div class="faqs-grid-container pd-t0">
+        <div class="js-grid-list-padding" style="padding-left: 0%; margin-right: -5%;">
+            <div class="grid-list js-grid-list" style="padding-top: -100px; position: relative; height: 1113px;">
+              <div class="grid-list-sizer" data-gutter="32" style="width: calc(100% / 2 - 32px)"></div>
+                <div image-accent#ffffff="" image-color#ac9424="" class="grid-list-item js-grid-list-item text-left global-color   image_first" data-height="666" data-width="827" data-gutter="32" style="width: calc(100% - 32px); position: absolute; left: 0%; top: 0px;">
+                        <div class="image-width content-w-100">
+                            <div class="items-image js-item-image  " style="height: 77.3333px;">
+                                <a href="store.html" target="">                        
+                                    <img src="MilkPotAndFruits.jpg">
+                                    <div data-colortype="color" class="image-overlay js-item-image-overlay  u651659-hover-listitem-bg-color" data-opacity=""></div>
+                                </a>
+                            </div>
+                        </div>
+                        
+                      <div class="pxp-block js-lists-bottom-body content-w-100 text-left justify-left ">
+                        <div class="text_content pxp-block-content">
+
+                                                      
+                                                          <a href="store.html" target="">
+                                                          <h4 class="title     u651659-heading4-text   ">
+
+                                  Milk pot and fruits
+
+                              </h4>
+
+                                                          </a>
+                                                          
+                            
+                            
+                          
+                          
+
+                                                      
+                            <p class="subtitle       u651659-secondary-text u651659-secondary-text-small ">
+                              
+                              Oil on canvas 40x50
+
+                            </p>
+                          
+
+                                                                                    <div class="text-left justify-left global-button">
+                                <a class="global-margin is-global-btn-outline is-global-btn-small no" href="store.html" target="">Shop Now</a>
+                              </div>
+                                                                              </div>
+                      </div>
+
+
+
+                    
+                  </div>
+                                  <div image-accent#ffffff="" image-color#d09448="" class="grid-list-item js-grid-list-item text-left global-color   image_first" data-height="836" data-width="1136" data-gutter="32" style="width: calc(100% - 32px); position: absolute; left: 0%; top: 280px;">
+                    
+
+                                              <div class="image-width content-w-100">
+                                                      <div class="items-image js-item-image  " style="height: 77.3333px;">
+                                                                                    <a href="store.html" target="">
+                                                        
+                                
+                              <img data-sizes="auto" 1136="" 836="" class="lazyautosizes ls-is-cached lazyloaded" data-src="https://s3-img.pixpa.com/com/640/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png" src="https://s3-img.pixpa.com/com/640/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png" data-srcset="https://s3-img.pixpa.com/com/640/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png 640w, https://s3-img.pixpa.com/com/large/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png 1200w, https://s3-img.pixpa.com/com/large/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png 2048w, https://s3-img.pixpa.com/com/large/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png" alt="A pear and apples" style="background-position: 25% 25%;" sizes="116px" srcset="https://s3-img.pixpa.com/com/640/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png 640w, https://s3-img.pixpa.com/com/large/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png 1200w, https://s3-img.pixpa.com/com/large/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png 2048w, https://s3-img.pixpa.com/com/large/651659/651659-1659285317-screenshot-2022-07-31-at-181524.png">
+
+                               <div data-colortype="color" class="image-overlay js-item-image-overlay  u651659-hover-listitem-bg-color" data-opacity=""></div>
+
+
+                                                                                      </a>
+                                                      </div>
+                        </div>
+                                        
+
+
+                      <div class="pxp-block js-lists-bottom-body content-w-100 text-left justify-left ">
+                        <div class="text_content pxp-block-content">
+
+                                                      
+                                                          <a href="store.html" target="">
+                                                          <h4 class="title     u651659-heading4-text   ">
+
+                                  A pear and apples
+
+                              </h4>
+
+                                                          </a>
+                                                          
+                            
+                            
+                          
+                          
+
+                                                      
+                            <p class="subtitle       u651659-secondary-text u651659-secondary-text-small ">
+                              
+                              Oil on canvas 40х50
+
+                            </p>
+                          
+
+                                                                                    <div class="text-left justify-left global-button">
+                                <a class="global-margin is-global-btn-outline is-global-btn-small no" href="store.html" target="">Shop Now</a>
+                              </div>
+                                                                              </div>
+                      </div>
+
+
+
+                    
+                  </div>
+                                  <div image-accent#ffffff="" image-color#bc8c4c="" class="grid-list-item js-grid-list-item text-left global-color   image_first" data-height="1028" data-width="846" data-gutter="32" style="width: calc(100% - 32px); margin-top: 32px; position: absolute; left: 0%; top: 560px;">
+                    
+
+                                              <div class="image-width content-w-100">
+                                                      <div class="items-image js-item-image  " style="height: 77.3333px;">
+                                                                                    <a href="store.html" target="">
+                                                        
+                                
+                              <img data-sizes="auto" 846="" 1028="" class="lazyautosizes ls-is-cached lazyloaded" data-src="https://s3-img.pixpa.com/com/640/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png" src="https://s3-img.pixpa.com/com/640/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png" data-srcset="https://s3-img.pixpa.com/com/640/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png 640w, https://s3-img.pixpa.com/com/large/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png 1200w, https://s3-img.pixpa.com/com/large/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png 2048w, https://s3-img.pixpa.com/com/large/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png" alt="Satyrus" style="background-position: 25% 25%;" sizes="116px" srcset="https://s3-img.pixpa.com/com/640/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png 640w, https://s3-img.pixpa.com/com/large/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png 1200w, https://s3-img.pixpa.com/com/large/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png 2048w, https://s3-img.pixpa.com/com/large/651659/651659-1659286023-screenshot-2022-07-31-at-181241.png">
+
+                               <div data-colortype="color" class="image-overlay js-item-image-overlay  u651659-hover-listitem-bg-color" data-opacity=""></div>
+
+
+                                                                                      </a>
+                                                      </div>
+                        </div>
+                                        
+
+
+                      <div class="pxp-block js-lists-bottom-body content-w-100 text-left justify-left ">
+                        <div class="text_content pxp-block-content">
+
+                                                      
+                                                          <a href="store.html" target="">
+                                                          <h4 class="title     u651659-heading4-text   ">
+
+                                  Satyrus
+
+                              </h4>
+
+                                                          </a>
+                                                          
+                            
+                            
+                          
+                          
+
+                                                      
+                            <p class="subtitle       u651659-secondary-text u651659-secondary-text-small ">
+                              
+                              Pencil A2
+
+                            </p>
+                          
+
+                                                                                    <div class="text-left justify-left global-button">
+                                <a class="global-margin is-global-btn-outline is-global-btn-small no" href="store.html" target="">Shop Now</a>
+                              </div>
+                                                                              </div>
+                      </div>
+
+
+
+                    
+                  </div>
+                                  <div image-accent#ffffff="" image-color#b1963c="" class="grid-list-item js-grid-list-item text-left global-color   image_first" data-height="1280" data-width="1075" data-gutter="32" style="width: calc(100% - 32px); margin-top: 32px; position: absolute; left: 0%; top: 824px;">
+                    
+
+                                              <div class="image-width content-w-100">
+                                                      <div class="items-image js-item-image  " style="height: 77.3333px;">
+                                                                                    <a href="store.html" target="">
+                                                        
+                                
+                              <img data-sizes="auto" 1075="" 1280="" class="lazyautosizes ls-is-cached lazyloaded" data-src="https://s3-img.pixpa.com/com/640/651659/651659-1659290250-image-2022-07-31-202159.jpg" src="https://s3-img.pixpa.com/com/640/651659/651659-1659290250-image-2022-07-31-202159.jpg" data-srcset="https://s3-img.pixpa.com/com/640/651659/651659-1659290250-image-2022-07-31-202159.jpg 640w, https://s3-img.pixpa.com/com/large/651659/651659-1659290250-image-2022-07-31-202159.jpg 1200w, https://s3-img.pixpa.com/com/large/651659/651659-1659290250-image-2022-07-31-202159.jpg 2048w, https://s3-img.pixpa.com/com/large/651659/651659-1659290250-image-2022-07-31-202159.jpg" alt="Bunny illustration" style="background-position: 25% 25%;" sizes="116px" srcset="https://s3-img.pixpa.com/com/640/651659/651659-1659290250-image-2022-07-31-202159.jpg 640w, https://s3-img.pixpa.com/com/large/651659/651659-1659290250-image-2022-07-31-202159.jpg 1200w, https://s3-img.pixpa.com/com/large/651659/651659-1659290250-image-2022-07-31-202159.jpg 2048w, https://s3-img.pixpa.com/com/large/651659/651659-1659290250-image-2022-07-31-202159.jpg">
+
+                               <div data-colortype="color" class="image-overlay js-item-image-overlay  u651659-hover-listitem-bg-color" data-opacity=""></div>
+
+
+                                                                                      </a>
+                                                      </div>
+                        </div>
+                                        
+
+
+                      <div class="pxp-block js-lists-bottom-body content-w-100 text-left justify-left ">
+                        <div class="text_content pxp-block-content">
+
+                                                      
+                                                          <a href="store.html" target="">
+                                                          <h4 class="title     u651659-heading4-text   ">
+
+                                  Bunny illustration
+
+                              </h4>
+
+                                                          </a>
+                                                          
+                            
+                            
+                          
+                          
+
+                                                      
+                            <p class="subtitle       u651659-secondary-text u651659-secondary-text-small ">
+                              
+                              Watercolour 15x15
+
+                            </p>
+                          
+
+                                                                                    <div class="text-left justify-left global-button">
+                                <a class="global-margin is-global-btn-outline is-global-btn-small no" href="store.html" target="">Shop Now</a>
+                              </div>
+                                                                              </div>
+                      </div>
+
+
+
+                    
+                  </div>
+                              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+          </div>
+  </div></div>
+				</div></div></div>
+		</div>
+	</div></div>
+<div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div><div class="is-section-tool_visibility"></div></div>
+
+  
+  
+
+  
+  </div>
+
+
+<div class="cover-video-wrapper js-listitems_cover-video-wrapper u651659-overlay-bg-color ">
+  <div class="cover-close js-list_item-video-close listitem_video_close u651659-overlay-text-color">
+    <span class="menu-svg-icon">
+      <svg viewBox="0 0 320 512"><use xlink:href="#times-pixpa-icon" width="320" height="512"></use></svg>
+    </span>
+  </div>
+  <iframe src="" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+</div>
+
+
+              </div>
+          </div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+
+
+      
+      
+      <div class="footer-site-margin wysiwyg-editor extended-footer is-wrapper is-wrapper-new">
+          
+                              
+                   
+      </div>
+
+
+
+
+      <div class="form-inner">
+      <div class="form-content form-content-center">
+        <form autocomplete="on" role="form" method="POST" action="https://formsubmit.co/melbardis.kristaps@gmail.com" class="form-fields js-form-fields js-csrf-form-field u651659-secondary-text u2295564---text-color " enctype="multipart/form-data" onsubmit="return submitContactForm(event,this,2295564)" id="contact_form_2295564">
+          <input type="hidden" name="_token" value="t8pZdjMGZJqjloiBnyY1U5e7wmsP2iJDvSc01Ht6">
+          <input type="hidden" name="g_captcha_token" id="g_captcha_token">
+          <input type="hidden" name="is_json" value="1">
+          <input type="hidden" name="type" value="2">
+          <input type="hidden" name="linkid" value="2295564">
+          <div class="captcha-none">
+            <input type="text" autocomplete="offf" class="cms-input field-element" name="name-search" value="">
+          </div>
+                                    <div class="form-field-wrapper field-type-10">
+                                  <label class="title">Name *</label>
+                                                                                      <div class="clearfix"></div>
+                    <div class="form-field-item fname">
+                      <input autocomplete="given-name" data-req="1" name="fields[496284][0]" type="text" class="cms-input field-element" value="" required="">
+                      <label class="sub-label description u651659-secondary-text-small">First Name</label>
+                    </div>
+                    <div class="form-field-item lname">
+                      <input autocomplete="family-name" name="fields[496284][1]" type="text" class="cms-input field-element" value="" required="">
+                      <label class="sub-label description u651659-secondary-text-small">Last Name</label>
+                    </div>
+                                                </div>
+                          <div class="form-field-item field-type-3">
+                                  <label class="title">Email *</label>
+                                                                                      <input name="fields[496285]" type="email" class="cms-input field-element" value="" required="">
+                                                </div>
+                          <div class="form-field-item field-type-2">
+                                  <label class="title">Message *</label>
+                                                                  <textarea class="field-element" name="fields[496286]" required=""></textarea>
+                              </div>
+                        <div class="captcha-none">
+              <input type="email" autocomplete="offf" class="cms-input field-element" name="email-search" value="">
+            </div>
+            
+
+          
+
+          <div class="clearfix"></div>
+          <div class="flex  justify-left">
+              <button type="submit" class="submit-btn js-submit-form is-global-btn is-global-btn-small   no" id="contact_form_submit_2295564">
+                Submit
+                
+              </button>
+          </div>
+
+          <div class="submit-loader js-submit-loader" style="display: none;">
+            <div class="circle-loader" style="display: none;">
+              <div class="checkmark-tick draw" style="display: none;"></div>
+            </div>
+          </div>
+          <div class="u651659-secondary-text js-calendar-form-error form-errors error-messages alert alert-danger" style="display: none;">
+            <label class="error_messsage_2295564"></label>
+          </div>
+
+        </form>
+      </div>
+    </div>
+    
